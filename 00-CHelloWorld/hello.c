@@ -6,7 +6,4 @@ int main(int argc, char const *argv[])
     return 0;
 }
 
-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
-
-
-https://vscode.dev/editor/liveshare/D244F95F9ED72FB79164EB2730B3F379B525
+https://prod.liveshare.vsengsaas.visualstudio.com/join?CC8DBCC19488B98EE9CEB7862CB5FD392ADC
